@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1019-squares-of-a-sorted-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -53,9 +55,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1137-height-checker) |
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0561-array-partition) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 <!---LeetCode Topics End-->
