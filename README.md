@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1019-squares-of-a-sorted-array) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1137-height-checker](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1168-duplicate-zeros) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -47,9 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1019-squares-of-a-sorted-array) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1137-height-checker](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1137-height-checker) |
 ## Counting Sort
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1137-height-checker) |
+## Greedy
+|  |
+| ------- |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 <!---LeetCode Topics End-->
