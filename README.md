@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Two Pointers
 |  |
@@ -41,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0941-sort-array-by-parity) |
@@ -62,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0561-array-partition) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
