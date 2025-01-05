@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0561-array-partition) |
+| [0724-find-pivot-index](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0724-find-pivot-index) |
 | [0941-sort-array-by-parity](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1019-squares-of-a-sorted-array) |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
