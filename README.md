@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0238-product-of-array-except-self) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0268-missing-number) |
@@ -144,8 +146,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0215-kth-largest-element-in-an-array) |
 ## Matrix
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
