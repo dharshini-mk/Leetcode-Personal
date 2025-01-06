@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1137-height-checker](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1137-height-checker) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Counting Sort
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
