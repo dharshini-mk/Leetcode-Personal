@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0229-majority-element-ii) |
 | [0561-array-partition](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1137-height-checker) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Greedy
 |  |
 | ------- |
