@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1137-height-checker](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1168-duplicate-zeros) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Hash Table
