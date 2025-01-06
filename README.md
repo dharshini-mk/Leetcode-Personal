@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0238-product-of-array-except-self) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0350-intersection-of-two-arrays-ii) |
