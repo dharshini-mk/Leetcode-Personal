@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Hash Table
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
