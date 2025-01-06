@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0283-move-zeroes) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1137-height-checker) |
 ## Greedy
@@ -108,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0724-find-pivot-index) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
