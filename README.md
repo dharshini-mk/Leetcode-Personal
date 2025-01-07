@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Sorting
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
