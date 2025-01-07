@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Sorting
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0389-find-the-difference) |
 ## String
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0215-kth-largest-element-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/dharshini-mk/Leetcode-Personal/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
